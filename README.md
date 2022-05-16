@@ -10,8 +10,9 @@
 | `1주차` | [✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week1)||
 | `2주차` |[✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week2)||
 | `3주차` |[✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week3)||
-| `4주차` |[✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week4)|시험기간~|
+| `4주차` |[❎](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week4)|시험기간~|
 | `5주차` |[✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week5)||
 | `6주차` |[✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week6)||
+| `7주차` |[✅](https://github.com/UnTitle-NoBrain-Algorithm-Study/ezidayzi_algorithm/tree/main/week7)||
 
 `✅ 를 클릭하면 해당 주차로 이동합니다~`
